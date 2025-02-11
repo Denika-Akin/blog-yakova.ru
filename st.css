@@ -1,0 +1,198 @@
+BODY	{
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 8pt; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: "Tahoma";
+	
+}
+A:link			{color: #006699; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Helvetica;text-decoration:none}
+A:active			{color: #006699; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Helvetica;text-decoration:none}
+A:visited		{color: #006699; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Helvetica;text-decoration:none}
+A:hover			 { color: #f90; font-size: 11px; font-family: Verdana, Helvetica; text-decoration: none }
+
+A:link.Hyip		 {color: #006699; font-size: 15px; font-family: Arial, Helvetica; font-weight: bold; text-decoration: none}
+A:active.Hyip		{ color: #006699; font-size: 15px; font-family: Arial, Helvetica; font-weight: bold; text-decoration: none}
+A:visited.Hyip		 { color: #006699; font-size: 15px; font-family: Arial, Helvetica; font-weight: bold; text-decoration: none}
+A:hover.Hyip			  { color: #f90; font-size: 15px; font-family: Arial, Helvetica; font-weight: bold; text-decoration: none}
+
+A:link.menr		    { color: #006699; font-size: 10px; font-family: Verdana, Helvetica; font-weight: bold; text-decoration: none }
+A:active.menr			   { color: #006699; font-size: 10px; font-family: Verdana, Helvetica; font-weight: bold; text-decoration: none }
+A:visited.menr	   { color: #006699; font-size: 10px; font-family: Verdana, Helvetica; font-weight: bold; text-decoration: none }
+A:hover.menr			    { color: #f90; font-size: 10px; font-family: Verdana, Helvetica; font-weight: bold; text-decoration: none }
+
+A:link.trade		     { color: #006699; font-size: 11px; font-family: tahoma, Helvetica; font-weight: bold; text-decoration: none }
+A:active.trade			  { color: #006699; font-size: 11px; font-family: tahoma, Helvetica; text-decoration: none; font-weight: bold }
+A:visited.trade		  { color: #006699; font-size: 11px; font-family: tahoma, Helvetica; text-decoration: none; font-weight: bold }
+A:hover.trade			   { color: #f90; font-size: 11px; font-family: tahoma, Helvetica; text-decoration: none; font-weight: bold }
+
+A:link.hiypinfo		    {color: #006699; font-size: 9px; font-family: Verdana, Helvetica; font-weight: bold; text-decoration: none}
+A:active.hiypinfo		   { color: #006699; font-size: 9px; font-family: Verdana, Helvetica; font-weight: bold; text-decoration: none}
+A:visited.hiypinfo	   { color: #006699; font-size: 9px; font-family: Verdana, Helvetica; font-weight: bold; text-decoration: none}
+A:hover.hiypinfo			    { color: #f90; font-size: 9px; font-family: Verdana, Helvetica; font-weight: bold; text-decoration:  none}
+
+h1            {BACKGROUND: none; COLOR: #ff0000; FONT-SIZE: 11px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none; margin-top: 0; margin-bottom: 0;}
+
+
+.text				{line-height: 10px; color: #000; font-size: 9px; font-family: Verdana, Helvetica; font-weight: normal; text-decoration: none; background: transparent}
+.title				 { color: #006699; font-size: 10px; font-family: Verdana, Helvetica; font-weight: bold}
+.bodyline		{background-color: #FFFFFF; border: 1px #DEDEDE solid;}
+.boxtitle			{FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 11px; COLOR:#FF5500; FONT-WEIGHT: bold;}
+.content			   { color: #666666; font-size: 11px; font-family: tahoma, Helvetica; background: transparent }
+.block-title		{COLOR: #006699; text-transform:uppercase; font-size:9px; font-family:Tahoma,Verdana}
+.block-black	   { color: #000000; font-size: 9px; font-family: Tahoma, Verdana; text-transform: uppercase }
+.storytitle		 { color: #006699; font-size: 11px; font-family: tahoma, Helvetica; font-weight: bold; text-decoration: none; background: transparent }
+.labelHYIP { color: #ff5500; font-size: 13px; font-family: Arial, Helvetica; font-weight:  bold; text-decoration: none; background: transparent;}
+.storycat		{BACKGROUND: none; COLOR: #FF5500; FONT-SIZE: 11px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline}
+.boxcontent	{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Helvetica}
+.option			 { color: #ff5500; font-size: 10px; font-family: Tahoma, Helvetica; font-weight: bold; text-decoration: none; background: transparent }
+.tiny	 { color: #000; font-size: 9px; font-family: Verdana, Helvetica; font-weight: normal; text-decoration: none; background: transparent; padding-top: 2px }
+.small			 { color: #000; font-size: 9px; font-family: Verdana, Helvetica; font-weight: normal; text-decoration: none; background: transparent}
+legend			 {COLOR: #006699; text-transform:uppercase; font-size:9px; font-family:Tahoma,Verdana; border: 1px #DEDEDE solid;background-color:#f3f4f8 }
+fieldset			 { width: auto; border: solid 1px #dedede; padding-left: 3px; padding-right: 3px; padding-bottom: 4px; padding-top: 2px }
+th					{COLOR: #FFFFFF; FONT-SIZE: 11px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+hr	{ margin-left: 5px; margin-top: 2px; margin-right: 10px; margin-bottom: 2px; line-height: 0pt; height: 0pt; border-style: solid; border-width: 0px 0 0; border-color: #dedede}
+
+.hyippay  { color: #31ac00; font-size: 9px; font-family: VERDANA, Helvetica; font-weight: bold}
+.hyipproblem {color: #FD8D01; font-family: VERDANA, Helvetica; font-weight:  bold; font-size: 9px}
+.hyipwait {color:#FFD710; font-family: VERDANA, Helvetica; font-weight:  bold; font-size: 9px}
+.hyipnotpay {color: #FF0000; font-family: VERDANA, Helvetica; font-weight:  bold; font-size: 9px} 
+ul					 {line-height: 13px; margin-left: 20px; margin-top: 3px; margin-right: 12px; margin-bottom: 3px}
+ol					{line-height: 13px; margin-left: 20px; margin-top: 3px; margin-right: 12px; margin-bottom: 3px}
+p {line-height: 12px; margin-left:48px; margin-top: 3px; margin-right: 12px; margin-bottom: 3px }
+.usfl   { line-height: 12px; text-indent: 16px; margin: 4px 3px 4px 2px }
+.pot  { line-height: 12px; text-indent: 16px; margin: 1px 3px 2px 2px }
+.storyred { color: #c03; font-size: 10px; font-family: Verdana }
+.contentred { color: #c03; font-size: 11px; font-family: Arial, Helvetica}
+.storyel  { color: #ff5500; font-size: 12px; font-family: Verdana }
+.usd  {border-bottom:  solid 1px #dedede; border-top:  solid 2px #dedede; font-size: 10px}
+table.brd_1  { font-size: 11px; font-family: Verdana, sans-serif; margin-bottom: 4px;  border:  solid 1px #000000;}
+table.brd_vmn   {border-bottom:  solid 1px #0080c0; border-top:  solid 2px #0080c0; font-size: 11px}
+table.brd_3  { font-size: 11px; font-family: Verdana, sans-serif; margin-bottom: 4px; border: solid 1px #0080c0; background-color: #ffffff}
+
+tr.menu
+   { color: #ffffff; font-size: 9px; font-family: Verdana, Helvetica; font-weight: normal; background-color: #016FAE; }
+
+td.small2 {font-size:9px;padding-left:4px;padding-right:4px; background-color: #F0F0F0; border-top: solid 1px black; padding-top: 1px; padding-bottom: 1px}
+.brd_vmn1 {border-bottom:  solid 1px #0080c0; border-top:  solid 2px #0080c0; font-size: 11px}
+.brd_vmn4 {border-bottom:  solid 1px #dedede; border-top:  solid 2px #dedede}
+.brd_vmn2 {border-top:  solid 1px #0080c0; font-size: 11px}
+.sh	{
+	BORDER-RIGHT: #EEEEEE 1px solid; FLOAT: right; WIDTH: 0px; HEIGHT: 10px}
+	
+tr.tbl	    { color: #ffffff; font-size: 11px; font-family: Verdana, Helvetica; font-weight: normal; background-color: #016FAE; text-align: center; vertical-align: middle }
+	   
+tr.spons	  {FONT-SIZE: 11px;   COLOR: #6A6A6A; MARGIN-RIGHT: 2px; TEXT-ALIGN: center; border-bottom: 2px; width: 0pt }
+	 
+.mnr
+	  {
+	 FONT-SIZE: 11px; MARGIN-RIGHT: 2px; text-align:  left; padding-top: 4px; padding-left: 5px; padding-right: 3px; padding-bottom: 2px}
+	 
+.spon {padding-top: 12px}
+
+
+.sp2	{margin-TOP: 4px; margin-bottom:  4px;
+	BORDER-RIGHT: #dedede 1px solid; float: right; WIDTH: 0px; HEIGHT: 24px; vertical-align: middle; 
+}
+
+.sp1 {border-bottom:  #dedede 1px solid}
+tr.sp1 {border-bottom:  #dedede 1px solid}
+
+.inpts {
+	font-family:Verdana,Tahoma,Arial,Sans-Serif;
+	font-size:10px;
+	color:#000; 
+	background-color:#FFFFFF;
+	border:1px #666 solid;} 
+.sbmt {
+	font-family:Verdana,Tahoma,Arial,Sans-Serif;
+	font-size:10px;
+	background-color:#ffffff;
+	border:#000000 1px solid;
+}
+
+#csstopmenu, #csstopmenu ul{
+padding: 0;
+margin: 0;
+list-style: none;
+
+}
+
+#csstopmenu li{
+float: left;
+position: relative;
+
+}
+
+#csstopmenu a{
+text-decoration: none;
+}
+
+.mainitems { background-color: #ffffff; font-size: 11px}
+
+.headerlinks a    {color: #006699; text-align: center; display: block; margin: auto; width: 9em }
+.headerlinks a:hover   { color: white; background-color: #0080c0 }
+
+.submenus {background-color: white; display: none; position: absolute; top: 1.2em; left: 0; width: 9.5em; border: solid 1px black }
+
+.submenus li  {width: 100% }
+
+.submenus li a {text-indent: 2px; display: block; width: 100% }
+
+html>body .submenus li a{ /* non IE browsers */
+width: auto;
+}
+
+.submenus li a:hover { color: white; background-color: #0080c0;}
+
+#csstopmenu li>ul {/* non IE browsers */
+top: auto;
+left: auto;
+}
+
+#csstopmenu li:hover ul, li.over ul {
+display: block;
+}
+
+
+
+
+/* Форма поиска синяя кнопка  
+------------------------------------------*/ 
+.poick_os1 {  
+  float:left; 
+  padding:4px;  
+  width:300px; 
+  background:#fff; 
+  border: 1px solid #A0A8AC;  
+}  
+
+.poick_os1 input { 
+  float:left; 
+  margin:0px; 
+  vertical-align:middle;  
+  font:11px Verdana,Arial,Helvetica,sans-serif; 
+} 
+
+.poick_pole1 { 
+  color:#555; 
+  width:220px; 
+  height:15px; 
+  border:none;  
+  padding:6px 4px; 
+} 
+   
+.poick_knopka1 {  
+  text-shadow: 1px 1px 1px #1061B0; 
+  width:70px; 
+  height:27px; 
+  cursor:pointer; 
+  background:#36A6FA; 
+  border:1px solid #2290e3;  
+  color:#fff; font-weight: bold!important;  
+} 
+   
+.poick_knopka1:hover {background:#3c9fea;} 
+
+.poick_os1, 
+.poick_knopka1 {  
+  -webkit-border-radius: 3px; 
+  -moz-border-radius: 3px; 
+  border-radius: 3px; 
+}
